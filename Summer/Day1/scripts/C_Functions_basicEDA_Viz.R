@@ -84,7 +84,7 @@ plot(characterTally, main='Force Awakens: Character Scene Tally')
 # Save a basic plot to disk in the personal folder since it was set as the "working directory"
 #png("~/Desktop/PUT IN YOUR FOLDER PATH/characterTally_plot.png")
 plot(characterTally, main='Force Awakens: Character Scene Tally')
-dev.off()
+#dev.off()
 
 # BACK TO PPT FOR EXPLANATION
 # ggplot2: Commented layers with ggplot to make a line plot

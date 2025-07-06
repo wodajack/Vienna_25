@@ -11,7 +11,9 @@
 
 # Scrub the data - account for missing variables
 
-# Create a DTM from the drNotes column
+# Create a DTM from the drNotes columns or use an LLM
+# If this is done in class, then just show the code and execute it on 10+ to demonstrate
+# fluency but due to time constraints no need to put into the model.
 
 # Explore the data
 

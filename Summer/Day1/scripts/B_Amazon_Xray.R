@@ -51,7 +51,7 @@ summary((scenesDF$length/1000) / 60)
 subset(scenesDF, scenesDF$length == max(scenesDF$length))
 
 # Or you can use a different function to find the row
-maximumLength <- which.max(scenesDF$length) #16
+maximumLength <- which.max(scenesDF$length) 
 scenesDF[maximumLength,]
 
 # Sometimes when parsing text there are unusual characters which can cause issues
