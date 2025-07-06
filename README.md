@@ -10,5 +10,5 @@ install.packages('pacman')
 
 # Use pacman to install other libraries)
 ```
-pacman::p_load(DataExplorer, dplyr, ggplot2, ggthemes, lubridate, radiant.data)
+pacman::p_load(caret, DataExplorer, dplyr, ggplot2, ggthemes, httr, jsonlite, lubridate, MLmetrics, pbapply, radiant.data, randomForest, ROSE, rpart, rpart.plot, stringdist, stringr, tidyverse, vtreat)
 ```
